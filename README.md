@@ -13,7 +13,7 @@ Kube-hunter hunts for security weaknesses in Kubernetes clusters. The tool was d
 ## Hunting
 
 ### Where should I run kube-hunter?
-Run kube-hunter on any machine (including your laptop), select Remote scanning and give the IP address or domain name of your Kubernetes cluster. This will give you an attackers-eye-view of your Kubernetes setup.
+You can run kube-hunter on any machine (including your laptop), select Remote scanning and give the IP address or domain name of your Kubernetes cluster. This will give you an attackers-eye-view of your Kubernetes setup.
 
 You can run kube-hunter directly on a machine in the cluster, and select the option to probe all the local network interfaces.
 
